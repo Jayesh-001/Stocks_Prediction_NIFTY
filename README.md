@@ -33,7 +33,7 @@ This project was transitioned from an exploratory Jupyter Notebook (`Stonks.ipyn
 **1. Clone the repository**
 
 ```bash
-git clone [https://github.com/yourusername/nifty-quant-predictor.git](https://github.com/yourusername/nifty-quant-predictor.git)
+git clone [https://https://github.com/Jayesh-001/Stocks_Prediction_NIFTY.git](https://https://github.com/Jayesh-001/Stocks_Prediction_NIFTY.git)
 cd nifty-quant-predictor
 ```
 
